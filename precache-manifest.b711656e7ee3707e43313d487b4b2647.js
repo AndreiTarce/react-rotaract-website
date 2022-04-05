@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "97a70f2cfefba8e4477e",
-    "url": "/react-rotaract-website/static/css/main.c6085106.chunk.css"
+    "revision": "cafebe2c09fd46d88f7c",
+    "url": "/react-rotaract-website/static/css/main.512ffe46.chunk.css"
   },
   {
-    "revision": "97a70f2cfefba8e4477e",
-    "url": "/react-rotaract-website/static/js/main.90d0de43.chunk.js"
+    "revision": "cafebe2c09fd46d88f7c",
+    "url": "/react-rotaract-website/static/js/main.35a4dfba.chunk.js"
   },
   {
     "revision": "0e2dd1deb0505504e08a",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/react-rotaract-website/static/media/visio.2ec572df.png"
   },
   {
-    "revision": "951617c69cde53103e642296945690de",
+    "revision": "7976f25c5e6f3e5efcf31c324d2a779b",
     "url": "/react-rotaract-website/index.html"
   }
 ];
