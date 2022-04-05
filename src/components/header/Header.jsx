@@ -13,7 +13,6 @@ const Header = () => {
         <h2>Cluj-Napoca</h2>
         <CTA />
         <div className="me"><img src={me} alt="" /></div>
-        <a href="#contact" className='scroll__down'>Scroll Down</a>
         <HeaderSocials />
       </div>
     </header>
